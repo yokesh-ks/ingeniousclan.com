@@ -1,0 +1,13 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "skills": {
+    "web-design-guidelines": {
+      "enabled": true,
+      "description": "Review UI code for Web Interface Guidelines compliance"
+    },
+    "vercel-react-best-practices": {
+      "enabled": true,
+      "description": "React and Next.js performance optimization guidelines"
+    }
+  }
+}
